@@ -1,0 +1,24 @@
+{
+  "name": "mongodb-examples",
+  "version": "1.0.0",
+  "description": "POC para exemplos com mondodb e nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb": "^3.6.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williansmartins/mongodb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williansmartins/mongodb/issues"
+  },
+  "homepage": "https://github.com/williansmartins/mongodb#readme"
+}
